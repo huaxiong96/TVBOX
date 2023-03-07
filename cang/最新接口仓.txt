@@ -1,0 +1,80 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+      "name": "1"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "2"
+    },
+    {
+      "url": "https://agit.ai/nohe2001/TVBox/raw/branch/TVBox/qj0715.json",
+      "name": "3"
+    },
+    {
+      "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+      "name": "4"
+    },
+    {
+      "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+      "name": "junbujianPro"
+    },
+    {
+      "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+      "name": "yeshijieB"
+    },
+    {
+      "url": "https://ju.binghe.ga/4.txt",
+      "name": "冰河"
+    },
+    {
+      "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+      "name": "小苹果"
+    },
+    {
+      "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+      "name": "云星家庭版升级"
+    },
+    {
+      "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+      "name": "云星哔哩大套餐"
+    },
+    {
+      "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+      "name": "云星阿里大套餐"
+    },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+      "name": "月光宝盒"
+    },
+    {
+      "url": "https://神器每日推送.tk/pz.json",
+      "name": "神器"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "俊佬"
+    },
+    {
+      "url": "https://hutool.ml/tang",
+      "name": "唐长老"
+    },
+    {
+      "url": "http://饭太硬.ga/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+      "name": "肥猫"
+    },
+    {
+      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "name": "巧儿"
+    },
+    {
+      "url": "https://tvbox.cainisi.cf",
+      "name": "菜妮丝"
+    }
+  ]
+}
