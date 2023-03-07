@@ -29,7 +29,7 @@
       "name": "yeshijieB"
     },
     {
-      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/%e5%86%b0%e6%b2%b3%e6%8e%a5%e5%8f%a3.txt?token=0p0Smpx7duRx0iQsdV0v8JM6xljmSfX9Gec9MXPPlJ&download=true",
+      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/%e5%86%b0%e6%b2%b3%e6%8e%a5%e5%8f%a3.txt?token=oV9hn1XNJ5qCfuZW1VGJ7O5eyqAUOpbE0DEPsXcNLG&download=true",
       "name": "冰河接口"
     },
     {
