@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/%e9%87%87%e9%9b%86%e6%8e%a5%e5%8f%a3.txt?token=GzrxQIQl4JvI7o1qGAToHJsFEMuHGxvp0jRUYWOLRa&download=true",
+      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/%e9%87%87%e9%9b%86%e6%8e%a5%e5%8f%a3.txt?token=HAjPxKXSReA4Z8TUCgmhN547FuNLjhaehrdhQDR4nL",
       "name": "采集接口"
     },
     {
@@ -29,7 +29,7 @@
       "name": "yeshijieB"
     },
     {
-      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/%e5%86%b0%e6%b2%b3%e6%8e%a5%e5%8f%a3.txt?token=8YgXU0mCWso6nGMMxzpP1Phkv6v11dWzdbdwK1pTZF&download=true",
+      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/%e5%86%b0%e6%b2%b3%e6%8e%a5%e5%8f%a3.txt?token=WLZHEFg5f1dRoyVrLbNPFOagBEK6gb7DrL867I0KUg",
       "name": "冰河接口"
     },
     {
