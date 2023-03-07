@@ -24,7 +24,7 @@
 {"key":"csp_xml___39影视","name":"🐝3 9影视"    ,"type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___酷点资源","name":"🐝酷点资源"   ,"type":1,"api":"https://api.kuapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___鱼乐资源","name":"🐝鱼乐资源"   ,"type":1,"api":"https://www.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml___影图资源","name":"🐝影图资源"   ,"type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___影图资源","name":"🐝影图资源"   ,"type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
 ],
 "parses":[
 {"name":"自动解析","type":3,"url":"Demo"},
