@@ -1,4 +1,67 @@
- {
-      "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-      "name": "小苹果"
+{
+  "urls": [
+    {
+      "url": "clan://localhost/cang/接口/采集接口.txt",
+      "name": "采集"
+    },
+    {
+      "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+      "name": "1"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "2"
+    },
+    {
+      "url": "https://agit.ai/nohe2001/TVBox/raw/branch/TVBox/qj0715.json",
+      "name": "3"
+    },
+    {
+      "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+      "name": "4"
+    },
+    {
+      "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+      "name": "junbujianPro"
+    },
+    {
+      "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+      "name": "yeshijieB"
+    },
+    {
+      "url": "clan://localhost/cang/接口/冰河接口.txt",
+      "name": "冰河"
+    },{
+  "urls": [
+    {
+      "url": "clan://localhost/cang/接口/采集接口.txt",
+      "name": "采集"
+    },
+    {
+      "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+      "name": "1"
+    },
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "2"
+    },
+    {
+      "url": "https://agit.ai/nohe2001/TVBox/raw/branch/TVBox/qj0715.json",
+      "name": "3"
+    },
+    {
+      "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+      "name": "4"
+    },
+    {
+      "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+      "name": "junbujianPro"
+    },
+    {
+      "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+      "name": "yeshijieB"
+    },
+    {
+      "url": "clan://localhost/cang/接口/冰河接口.txt",
+      "name": "冰河"
     },
