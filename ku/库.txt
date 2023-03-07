@@ -2,7 +2,7 @@
 "storeHouse": [
 {
    "sourceName": "最新接口仓",
-    "sourceUrl": "clan://localhost/cang/最新接口仓.txt"
+    "sourceUrl": "https://gitee.com/huxiong96/tvbox/raw/master/cang/%E6%9C%80%E6%96%B0%E6%8E%A5%E5%8F%A3%E4%BB%93.txt"
 }, 
 {
     "sourceName": "星河无敌",
