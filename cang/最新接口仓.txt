@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "https://gitee.com/huxiong96/tvbox/raw/master/jiekou/%E9%87%87%E9%9B%86%E6%8E%A5%E5%8F%A3.txt",
+      "name": "采集接口"
+    },
+    {
       "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
       "name": "1"
     },
@@ -25,8 +29,8 @@
       "name": "yeshijieB"
     },
     {
-      "url": "https://ju.binghe.ga/4.txt",
-      "name": "冰河"
+      "url": "https://gitee.com/huxiong96/tvbox/raw/master/jiekou/%E5%86%B0%E6%B2%B3%E6%8E%A5%E5%8F%A3.txt",
+      "name": "冰河接口"
     },
     {
       "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
