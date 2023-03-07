@@ -1,8 +1,8 @@
 {
 "spider":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/jar/spider2207.jar;md5;727C472F6F06E2958FF50FBD0C2AAE21",
 "sites": [
-{"key":"csp_xml___光速资源","name":"🐝光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___量子资源","name":"🐝量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___光速资源","name":"🐝光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___xinlang","name":"🐝新浪资源","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___快播云","name":"🐝快播云"     ,"type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___忆梦","name":"🐝忆 梦"      ,"type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
