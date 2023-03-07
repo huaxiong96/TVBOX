@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://gitee.com/huxiong96/tvbox/raw/master/jiekou/%E9%87%87%E9%9B%86%E6%8E%A5%E5%8F%A3.txt",
+      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/%e9%87%87%e9%9b%86%e6%8e%a5%e5%8f%a3.txt?token=2pgAkaSgLBXjCUi9y3Sq9M7fO17roa81IGvnsKlioh&download=true",
       "name": "采集接口"
     },
     {
