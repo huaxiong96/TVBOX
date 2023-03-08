@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://github.com/huaxiong96/TVBOX/blob/3b19b0f873d5fa6d952a21246e9be663f8938be3/jiekou/caiji.json",
+      "url": "https://raw.githubusercontent.com/huaxiong96/TVBOX/master/jiekou/caiji.json",
       "name": "采集接口"
     },
     {
@@ -29,7 +29,7 @@
       "name": "yeshijieB"
     },
     {
-      "url": "https://github.com/huaxiong96/TVBOX/blob/ee527c35f8fe47b0413ae3eb2d0286bf31e6094b/jiekou/binghe.json",
+      "url": "https://raw.githubusercontent.com/huaxiong96/TVBOX/master/jiekou/binghe.json",
       "name": "冰河接口"
     },
     {
