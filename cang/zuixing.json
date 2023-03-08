@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/caiji.json?token=mPQxWdJmmVV79LJszVGsK6GV80JUflAliuYQQHSIiY&download=true",
+      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/caiji.json",
       "name": "采集接口"
     },
     {
@@ -29,7 +29,7 @@
       "name": "yeshijieB"
     },
     {
-      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/binghe.json?token=be9nmhJ7XJdRSUI874r39OQShKmPCnmUz1q0hOHnCX&download=true",
+      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/binghe.json",
       "name": "冰河接口"
     },
     {
