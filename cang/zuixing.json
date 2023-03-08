@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/caiji.json",
+      "url": "jiekou/caiji.json",
       "name": "采集接口"
     },
     {
@@ -29,7 +29,7 @@
       "name": "yeshijieB"
     },
     {
-      "url": "https://raw.codehub.cn/p/tv/d/TVBOX/git/raw/master/jiekou/binghe.json",
+      "url": "jiekou/binghe.json",
       "name": "冰河接口"
     },
     {
