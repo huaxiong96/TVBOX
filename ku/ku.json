@@ -2,7 +2,7 @@
 "storeHouse": [
 {
    "sourceName": "最新接口仓",
-    "sourceUrl": "https://github.com/huaxiong96/TVBOX/blob/8ef3687a7176cb406442f7e684343d961b6a4b21/cang/zuixing.json"
+    "sourceUrl": "https://raw.githubusercontent.com/huaxiong96/TVBOX/master/cang/zuixing.json"
 }, 
 {
     "sourceName": "星河无敌",
