@@ -1,0 +1,20 @@
+{
+	"urls": 
+	[
+	{"url": "http://饭太硬.top/tv","name": "饭太硬"},
+	{"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米"},
+	{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json","name": "唐三"},
+	{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json","name": "FongMi"},
+	{"url": "https://100km.top/0","name": "纯一骚零"},
+	{"url": "http://cdn.qiaoji8.com/tvbox.json","name": "巧技"},
+	{"url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name": "霜辉月明py"},
+	{"url": "https://tvbox.cainisi.cf","name": "菜泥丝XBPQ"},
+	{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json","name": "PG one"},
+	{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "高天流云js"},
+	{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name": "高天流云XYQ"},
+	{"url": "http://我不是.肥猫.love:63/接口禁止贩卖","name": "肥猫"},
+	{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风"},
+	{"url": "https://weixine.net/ysc.json","name": "运输车"},
+	{"url": "https://yydsys.top/duo","name": "多多"}
+	]
+}

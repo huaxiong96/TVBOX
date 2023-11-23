@@ -1,0 +1,9 @@
+{
+	"urls": 
+	[
+	{"url": "https://jihulab.com/huaxiong96/TVBOX/-/raw/master/接口/你懂.txt","name": "你懂"},
+	{"url": "https://jihulab.com/huaxiong96/TVBOX/-/raw/master/接口/你懂1.txt","name": "你懂1"},
+	{"url": "https://jihulab.com/huaxiong96/TVBOX/-/raw/master/接口/你懂2.txt","name": "你懂2"},
+	{"url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json","name": "yeshijieC"}
+	]
+}
