@@ -1,0 +1,7 @@
+{
+"storeHouse": [
+{"sourceName":"💚多多优选仓","sourceUrl":"https://jihulab.com/huaxiong96/TVBOX/-/raw/master/单仓/多多优选仓.txt"},
+{"sourceName":"💛多多公众仓","sourceUrl":"https://jihulab.com/huaxiong96/TVBOX/-/raw/master/单仓/多多公众仓.txt"},
+{"sourceName":"❤️多多聚合仓","sourceUrl":"https://jihulab.com/huaxiong96/TVBOX/-/raw/master/单仓/多多聚合仓.txt"},
+{"sourceName":"🥕多多预备仓","sourceUrl":"https://jihulab.com/huaxiong96/TVBOX/-/raw/master/单仓/多多预备仓.txt"}
+]}

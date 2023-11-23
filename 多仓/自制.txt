@@ -1,0 +1,8 @@
+{ 
+	"storeHouse":
+	[
+	{"sourceName": "多多收集","sourceUrl": "https://jihulab.com/huaxiong96/TVBOX/-/raw/master/单仓/多多收集.txt"},
+	{"sourceName": "饭太硬收集","sourceUrl": "https://jihulab.com/huaxiong96/TVBOX/-/raw/master/单仓/饭太硬收集.txt"},
+	{"sourceName": "肥猫收集","sourceUrl": "https://jihulab.com/huaxiong96/TVBOX/-/raw/master/单仓/肥猫收集.txt"}
+	]
+}
