@@ -30,10 +30,8 @@ CCTV-4中文国际(亚),http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212
 CCTV-4中文国际(亚),http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
 CCTV-4中文国际(亚),http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
 
-CCTV-4K超高清,http://hls.ye23.vip/dl/4k.cctv.php
-CCTV-4K超高清,http://lu1.cc/itv/php/cctv4k.php
+CCTV-4K超高清,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV-4K超高清,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-
 
 CCTV-5体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000016431/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3
 CCTV-5体育,http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
