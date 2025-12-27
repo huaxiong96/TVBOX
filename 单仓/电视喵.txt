@@ -1,0 +1,8 @@
+{
+	"urls": 
+	[
+	{"url": "https://9lnk.io/5UCA","name": "电视喵1"},
+	{"url": "https://9lnk.io/BpuF","name": "电视喵2"},
+	{"url": "https://9lnk.io/OLxT","name": "‍电视喵3"}
+	]
+}
