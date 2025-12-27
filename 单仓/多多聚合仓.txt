@@ -1,54 +1,50 @@
-//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
-//转载请注明出处
+//为防止接口被用于商业演示引流，因此将所有接口前全部添加多多，不介意给我引流的话，可以直接fork或直接引用，个人用户应该无所谓。
+//此多仓接口列表为公众号【多☆多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
 {
     "urls": [
         {
-            "url": "http://yydsys.top/duo/v.json",
-            "name": "🚨软件接口均免费严禁贩卖🚨"
-        },
-        {
-            "url": "http://yydsys.top/duo",
-            "name": "🏡应用多多家庭版"
-        },
-        {
-            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
-            "name": "🏡应用多多备用"
-        },
-        {
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
-            "name": "💎不良帅线路"
-        },         
-        {
-            "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "💎乱世线路"
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+            "name": "💎多多┃不良帅线路"
         }, 
+          {
+            "url":"http://zhangqun66.com/zq/api.json",
+            "name": "💎多多┃采集线路"
+        }, 
+          {
+            "url":"https://gitee.com/free-kingdom/dc/raw/main/T4.json",
+            "name": "💎多多┃T4线路"
+        }, 
+          {
+            "url":"https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "💎多多┃高天流云"
+        },      
         {
-            "url": "http://meowtv.cn/tv",
-            "name": "💎喵影视线路"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
-            "name": "💎甜蜜线路"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json",
-            "name": "💎一木线路"
+            "url": "https://龙伊.top",
+            "name": "💎多多┃龙伊线路"
         },        
-        {
-            "url": "https://agit.ai/kvymin/TV/raw/branch/master/Box.json",
-            "name": "💎kvymin线路"
+          {
+            "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
+            "name": "💎多多┃业余线路"
         },
         {
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-            "name": "💎agit/abc线路"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+            "name": "💎多多┃胜寒线路"
+        },	
+          {
+            "url":"https://ghfast.top/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "name": "💎多多┃二哈线路"
+        },
+          {
+            "url":"http://cdn.qiaoji8.com/tvbox.json",
+            "name": "💎多多┃巧技线路"
         },
         {
-            "url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json",
-            "name": "💎zzz1线路"
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "💎多多┃菜妮丝线路"
         },
         {
-            "url": "https://szyyds.cn/tv/x.json",
-            "name": "💎小马线路"
-        }
+            "url": "http://szyyds.cn/tv/x.json",
+            "name": "💎多多┃小马线路"
+        }	
     ]
 }

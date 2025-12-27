@@ -1,20 +1,11 @@
 {
 	"urls": 
 	[
-	{"url": "http://饭太硬.top/tv","name": "饭太硬"},
-	{"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米"},
-	{"url": "https://fm.t4tv.hz.cz/json/config.json","name": "FongMi"},
-	{"url": "https://100km.top/0","name": "纯一骚零"},
-	{"url": "https://already.free.hr/okcaptain/okjar/rm/ok.json","name": "OK吊炸天"},
+	{"url": "http://www.饭太硬.com/tv","name": "饭太硬"},
+	{"url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json","name": "小米"},
+	{"url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/","name": "王小二"},
+	{"url": "http://ok321.top/tv","name": "jack老师"},
 	{"url": "http://cdn.qiaoji8.com/tvbox.json","name": "巧技"},
-	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name": "霜辉月明py"},
-	{"url": "https://tvbox.cainisi.cf","name": "菜泥丝XBPQ"},
-	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json","name": "PG one"},
-	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name": "高天流云js"},
-	{"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name": "高天流云XYQ"},
-	{"url": "http://肥猫.live","name": "肥猫"},
-	{"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name": "南风"},
-	{"url": "https://weixine.net/ysc.json","name": "运输车"},
-	{"url": "https://yydsys.top/duo","name": "多多"}
+	{"url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json","name": "南风"}
 	]
 }
