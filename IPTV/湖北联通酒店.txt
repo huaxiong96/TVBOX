@@ -42,4 +42,4 @@ CCTV风云足球,http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv
 动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv
 影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv
 更新时间,#genre#
-2025-01-18 01:19:12,https://taoiptv.com/time.mp4
+2025-07-03 02:20:07,https://taoiptv.com/time.mp4
