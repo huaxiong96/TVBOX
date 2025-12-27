@@ -5,6 +5,7 @@
 	{"sourceName": "饭太硬收集","sourceUrl": "https://raw.githubusercontent.com/huaxiong96/TVBOX/master/单仓/饭太硬收集.txt"},
 	{"sourceName": "肥猫收集","sourceUrl": "https://raw.githubusercontent.com/huaxiong96/TVBOX/master/单仓/肥猫收集.txt"},
 	{"sourceName": "TVBOX助手","sourceUrl": "https://raw.githubusercontent.com/huaxiong96/TVBOX/master/单仓/TVBOX助手.txt"},
-	{"sourceName": "TVBOX助手1","sourceUrl": "https://raw.githubusercontent.com/huaxiong96/TVBOX/master/单仓/TVBOX助手1.txt"}
+	{"sourceName": "TVBOX助手1","sourceUrl": "https://raw.githubusercontent.com/huaxiong96/TVBOX/master/单仓/电视喵.txt"}
 	]
 }
+
